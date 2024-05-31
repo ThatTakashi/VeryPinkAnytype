@@ -1,0 +1,27 @@
+.navigationPanel {
+    padding: 8px;
+}
+
+#button-navigation-back, #button-navigation-forward, #button-navigation-plus, #button-navigation-graph, #button-navigation-search, #button-navigation-profile {
+    border-radius: 8px;
+}
+
+.block.blockCover {
+    border-radius: 16px;
+}
+
+.blocks .block .wrapContent.bgColor {
+    border-radius: 8px;
+}
+
+.bgColor-ice {
+    background: #f6e1ec !important;
+}
+
+body {
+    --color-bg-primary: #fff0f0;
+}
+
+.sidebar {
+    background: #ffe3e3;
+}
